@@ -1,4 +1,4 @@
-package srombauts.fr.materialdesigntest;
+package fr.srombauts.materialdesigntest;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
